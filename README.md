@@ -1,4 +1,5 @@
 # real-world-vue
+src -> vue mastery, for learning purposes, just adjusted best coding practice
 
 ## Project setup
 ```
